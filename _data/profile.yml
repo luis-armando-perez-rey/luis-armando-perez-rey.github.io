@@ -1,20 +1,16 @@
 image: assets/img/my_photo.jpg
 username: Luis Armando Perez Rey
-description: I am a PhD student passionate about learning and research. My main research goal is to discover ways of
-achieving generalization in machine learning models. I have expertise on representation learning using
-generative models, Bayesian methods, geometry and group theory. I seek to work on challenging
-projects that involve advanced mathematical reasoning to create novel solutions towards my research
-goal. I enjoy working in teams and communicating my ideas to any audience.
-webpage: https://luis-armando-perez-rey.github.io
+description: creator of the Grape-Academic-Theme! Grape-Academic-Theme is a modification of the Grape-Theme by naye0ng, making it more suitable as an academic portfolio.
+webpage: https://chrjabs.github.io
 experience: # Remove for hiding the experience section
-  - start: 2023-05-03
-    end: 2023-05-06
+  - start: 2017-05-03
+    end: 2018-05-06
     experience : company name, title
 interests: # Remove for hiding the interests section
   - Interest 1
   - Interest 2
 skills: # Remove for hiding the skills section
-  - skill: HTML5 & CSS & Other stuff
+  - skill: HTML5 & CSS
     value: 85  # Percent value
 social:
   email: luisarpere@gmail.com # Full email address, e.g. "sample@google.com"
@@ -27,12 +23,12 @@ social:
   linkedin:  https://www.linkedin.com/in/luis-armando-perez-rey/ # Full URL 
   github: luis-armando-perez-rey
   gitlab: 
-  bitbucket: 
+  bitbucket: chrjabs
   google_plus:
-  mastodon: 
-  twitter: 
+  mastodon: https://mastodon.social
+  twitter: chrjabs
   youtube:
   facebook:
   instagram:
-#awards: # Remove for hiding the awards section
-#  - "This is an award I got"
+awards: # Remove for hiding the awards section
+  - "This is an award I got"
