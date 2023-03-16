@@ -6,12 +6,12 @@ webpage: https://luis-armando-perez-rey.github.io
 #  - start: 2017-05-03
 #    end: 2018-05-06
 #    experience : company name, title
-interests: # Remove for hiding the interests section
-  - Interest 1
-  - Interest 2
-skills: # Remove for hiding the skills section
-  - skill: HTML5 & CSS
-    value: 85  # Percent value
+#interests: # Remove for hiding the interests section
+#  - Interest 1
+#  - Interest 2
+#skills: # Remove for hiding the skills section
+#  - skill: HTML5 & CSS
+#    value: 85  # Percent value
 social:
   email: luisarpere@gmail.com # Full email address, e.g. "sample@google.com"
   orcid: 
@@ -30,5 +30,5 @@ social:
   youtube:
   facebook:
   instagram:
-awards: # Remove for hiding the awards section
-  - "This is an award I got"
+#awards: # Remove for hiding the awards section
+#  - "This is an award I got"

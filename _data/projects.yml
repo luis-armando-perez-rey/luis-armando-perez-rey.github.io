@@ -10,7 +10,7 @@
     summary: Academic portfolio jekyll theme.
     description: A modification of the Grape-Theme for jekyll to be useable as an academic portfolio.
     contents:
-        - title: 1. Portfolio Page
+        - title: 1. Non-Free Equivariant Group Representations
           image:
             path: portfolio.png
             alt: "A screenshot of the portfolio page"
