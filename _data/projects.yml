@@ -1,16 +1,16 @@
 - project :
     print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url: https://github.com/chrjabs/Grape-Academic-Theme # Full URL
+    url: https://github.com/luis-armando-perez-rey/lsbd-vae # Full URL
     image:
-      path: "portfolio.png" # path: assets/project/
-      alt: "A screenshot of the portfolio page"
+      path: "traversals.PNG" # path: assets/project/
+      alt: "Linarly Symmetry-Based Disentangled Representations"
     date: 05/2022 &ndash; Developing
-    title: Grape-Theme
-    summary: Academic portfolio jekyll theme.
-    description: A modification of the Grape-Theme for jekyll to be useable as an academic portfolio.
+    title: Non-Free Equivariant Group Representations
+    summary: Project on the learning of disentangled data representations.
+    description: Model to learn equivariant representation for symmetric objects
     contents:
-        - title: 1. Non-Free Equivariant Group Representations
+        - title: 1. 
           image:
             path: portfolio.png
             alt: "A screenshot of the portfolio page"
