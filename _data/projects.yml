@@ -5,7 +5,7 @@
     image:
       path: "traversals.PNG" # path: assets/project/
       alt: "Linarly Symmetry-Based Disentangled Representations"
-    date: 05/2022 &ndash; Developing
+    date: 05/2022 &ndash; 
     title: Non-Free Equivariant Group Representations
     summary: Project on the learning of disentangled data representations.
     description: Model to learn equivariant representation for symmetric objects
@@ -30,6 +30,66 @@
             alt: "A screenshot of the tags page"
           description: <li>Responsive Layout</li> 
             <li>Tags</li> 
+
+
+- project :
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url: https://github.com/luis-armando-perez-rey/lsbd-vae # Full URL
+    image:
+      path: "traversals.PNG" # path: assets/project/
+      alt: "Linarly Symmetry-Based Disentangled Representations"
+    date: 05/2022 &ndash; Developing
+    title: Non-Free Equivariant Group Representations
+    summary: Project on the learning of disentangled data representations.
+    description: Model to learn equivariant representation for symmetric objects
+    contents:
+        - title: 1. 
+          image:
+            path: portfolio.png
+            alt: "A screenshot of the portfolio page"
+          description: <li>Concise portfolio page</li>
+            <li>Recent publications</li>
+            <li>Projects</li>
+
+- project :
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url: https://github.com/luis-armando-perez-rey/lsbd-vae # Full URL
+    image:
+      path: "traversals.PNG" # path: assets/project/
+      alt: "Linarly Symmetry-Based Disentangled Representations"
+    date: 05/2022 &ndash; Developing
+    title: Non-Free Equivariant Group Representations
+    summary: Project on the learning of disentangled data representations.
+    description: Model to learn equivariant representation for symmetric objects
+    contents:
+        - title: 1. 
+          image:
+            path: portfolio.png
+            alt: "A screenshot of the portfolio page"
+          description: <li>Concise portfolio page</li>
+            <li>Recent publications</li>
+            <li>Projects</li>
+- project :
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url: https://github.com/luis-armando-perez-rey/lsbd-vae # Full URL
+    image:
+      path: "traversals.PNG" # path: assets/project/
+      alt: "Linarly Symmetry-Based Disentangled Representations"
+    date: 05/2022 &ndash; Developing
+    title: Non-Free Equivariant Group Representations
+    summary: Project on the learning of disentangled data representations.
+    description: Model to learn equivariant representation for symmetric objects
+    contents:
+        - title: 1. 
+          image:
+            path: portfolio.png
+            alt: "A screenshot of the portfolio page"
+          description: <li>Concise portfolio page</li>
+            <li>Recent publications</li>
+            <li>Projects</li>
 
 - project:
     print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
