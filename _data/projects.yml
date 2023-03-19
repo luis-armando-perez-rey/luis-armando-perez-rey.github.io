@@ -43,14 +43,6 @@
     title: Non-Free Equivariant Group Representations
     summary: Project on the learning of disentangled data representations.
     description: Model to learn equivariant representation for symmetric objects
-    contents:
-        - title: 1. 
-          image:
-            path: portfolio.png
-            alt: "A screenshot of the portfolio page"
-          description: <li>Concise portfolio page</li>
-            <li>Recent publications</li>
-            <li>Projects</li>
 
 - project :
     print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
@@ -63,14 +55,7 @@
     title: Non-Free Equivariant Group Representations
     summary: Project on the learning of disentangled data representations.
     description: Model to learn equivariant representation for symmetric objects
-    contents:
-        - title: 1. 
-          image:
-            path: portfolio.png
-            alt: "A screenshot of the portfolio page"
-          description: <li>Concise portfolio page</li>
-            <li>Recent publications</li>
-            <li>Projects</li>
+
 - project :
     print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
@@ -82,14 +67,7 @@
     title: Non-Free Equivariant Group Representations
     summary: Project on the learning of disentangled data representations.
     description: Model to learn equivariant representation for symmetric objects
-    contents:
-        - title: 1. 
-          image:
-            path: portfolio.png
-            alt: "A screenshot of the portfolio page"
-          description: <li>Concise portfolio page</li>
-            <li>Recent publications</li>
-            <li>Projects</li>
+
 
 - project:
     print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
