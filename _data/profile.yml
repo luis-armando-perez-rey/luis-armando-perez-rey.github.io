@@ -2,13 +2,13 @@ image: assets/img/my_photo.jpg
 username: Luis Armando Perez Rey
 description: I am a PhD student passionate about learning and research. My main research goal is to discover ways of achieving generalization in machine learning models. I have expertise on representation learning using generative models, Bayesian methods, geometry and group theory. I seek to work on challenging projects that involve advanced mathematical reasoning to create novel solutions towards my research goal. I enjoy working in teams and communicating my ideas to any audience.
 webpage: https://luis-armando-perez-rey.github.io
-experience: # Remove for hiding the experience section
-  - start: 2018
-    end: 2023
-    experience : Eindhoven University of Technology & Prosus Group, PhD Student
-  - start: 2014
-    end: 2016
-    experience: Center of Applied Sciences and Technological Development, Research Student
+#experience: # Remove for hiding the experience section
+#  - start: 2018
+#    end: 2023
+#    experience : Eindhoven University of Technology & Prosus Group, PhD Student
+#  - start: 2014
+#    end: 2016
+#    experience: Center of Applied Sciences and Technological Development, Research Student
 #interests: # Remove for hiding the interests section
 #  - Interest 1
 #  - Interest 2
